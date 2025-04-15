@@ -4,15 +4,10 @@
 
 ---
 
-## 📜 Overview
-
-This repository contains the **full research proposal** for *Emergent Models (EMs)* — a new family of machine learning models that evolve large state spaces through simple local rules, inspired by biological and computational systems like Turing Machines and Cellular Automata.
-
 ## 📢 Citation
 
 Kind request: this paper is **not yet peer-reviewed** and is an **ongoing project**. We ask that you **acknowledge and cite** this work if you use or build upon it in any form.
 
-### BibTeX
 ```bibtex
 @misc{bocchese2025em,
   author       = {Giacomo Bocchese},
