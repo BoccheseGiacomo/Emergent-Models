@@ -6,7 +6,11 @@
 
 ## 📢 Citation
 
-Kind request: this paper is **not yet peer-reviewed** and is an **ongoing project**. We ask that you **acknowledge and cite** this work if you use or build upon it in any form.
+Kind request: this proposal paper is part of an **ongoing research project**.  
+If you use or build upon this work in any form, we kindly ask that you **acknowledge and cite** it.
+
+This project is **open-source** and part of an **open research** initiative —  
+however, **citation is required** as part of its usage terms.
 
 ```bibtex
 @misc{bocchese2025em,
