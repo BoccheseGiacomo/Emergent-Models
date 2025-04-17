@@ -20,6 +20,7 @@ however, **citation is required** as part of its usage terms.
   title        = {Machine Learning from Cellular Automata: Emergent Models (EMs) as Alternatives to Neural Networks},
   year         = {2025},
   month        = apr,
-  note         = {Proposal, in-progress research paper. Shared April 14, 2025.},
-  howpublished = {\url{https://github.com/BoccheseGiacomo/Emergent-Models}},
+  note         = {Proposal, in-progress research paper. Shared April 15, 2025.},
+  doi          = {10.55277/ResearchHub.70e8enig},
+  howpublished = {\url{https://doi.org/10.55277/ResearchHub.70e8enig}}
 }
