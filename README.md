@@ -3,6 +3,7 @@
 > A novel proposal for building ML models inspired by Turing Machines and Cellular Automata, designed as alternatives to neural networks.
 
 -> PDF in repo files
+
 ---
 
 ## 📢 Citation
